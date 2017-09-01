@@ -8,6 +8,7 @@ public class PropertiesOperation implements Serializable{
  
     private Properties prop;
     String java;
+    int hu;
 
     public Properties getProp() {
         return prop;
