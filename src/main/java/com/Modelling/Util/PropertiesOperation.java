@@ -7,6 +7,7 @@ import java.util.Properties;
 public class PropertiesOperation implements Serializable{
  
     private Properties prop;
+    String java;
 
     public Properties getProp() {
         return prop;
